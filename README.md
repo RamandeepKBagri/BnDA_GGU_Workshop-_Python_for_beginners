@@ -4,4 +4,4 @@
 - Week1: Fundamentals of python
 - Week2: Data Cleaning and Visualization
 - Week3: Linear regression and Naive Bayes
-[Content is created and cited properly, you can use these worksheets and play with them and cite them]
+[Content is created and cited properly, you can use these worksheets and play with them]
